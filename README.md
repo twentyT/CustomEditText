@@ -1,4 +1,4 @@
-＃-EditText带计数的edittext：依赖地址implementation:'com.github.twentyT:CustomEditText:1.0.1'
+＃-EditText带计数的edittext：依赖地址implementation 'com.github.twentyT:CustomEditText:1.0.1'
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
